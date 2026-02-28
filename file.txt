@@ -1,2 +1,3 @@
 Изменение 1 для task-branch1
 Изменение 2 для task-branch1
+Изменение 3 для task-branch1
